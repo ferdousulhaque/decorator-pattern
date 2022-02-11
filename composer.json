@@ -1,0 +1,17 @@
+{
+    "name": "ferdous/decorator-pattern",
+    "description": "Decorator pattern practical implementation",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "A S Md Ferdousul Haque",
+            "email": "ferdousul.haque@portonics.com"
+        }
+    ],
+    "require": {}
+}
