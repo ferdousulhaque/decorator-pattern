@@ -2,8 +2,6 @@
 
 include_once "./vendor/autoload.php";
 
-use App\Decorator;
-use App\Wrapper;
 use App\Methods\EmailNotifier;
 use App\Methods\SMSNotifier;
 use App\Methods\WebHookNotifier;
